@@ -32,6 +32,43 @@ The dataset was prepared for analysis by:
 -	Removing irregular or incomplete entries
 	Creating PivotTables to aggregate revenue by product, age group, season, and payment type
 
-[Insert Image: Screenshot of PivotTables or Data Model]
+![excel-pivots](pivot-tables.png)
+
+## Analysis & Insights
+This section translates the dashboard visuals into business insights.
+
+### KPI Performance
+Total revenue reached $164,202 across 2,761 unique customers, indicating a strong customer base.
+The average review rating of 3.75 suggests moderate customer satisfaction with room for improvement.
+
+### Product Performance
+The top five revenue-generating products are:
+Dress9 $7,403),	Blouse( $7,382), Sunglasses ($7,239), Sweater ($7,206),	Shirt ($7,181).
+Clothing items dominate the top positions, indicating that apparel is the primary revenue driver for Trendora.
+
+### Customer Demographics (Age Group)
+Customers aged 50–59 generated the highest revenue ($31,837), followed closely by 60–70.
+Teenagers aged 10–19 contributed the least ($5,891).
+This highlights middle-aged and older customers as the most valuable spending segment.
+
+### Seasonal Sales Trends
+Seasonal revenue distribution shows relatively stable performance throughout the year, with a slight peak in Fall ($42,796) and the lowest sales in Summer ($40,019).
+This suggests consistent demand with an opportunity for targeted summer promotions to boost sales.
+
+### Payment Method Preferences
+Payment behavior is led by Debit Cards (983 transactions), followed by Cash (700) and Credit Cards (638), while Bank Transfers (440) are the least used.
+This indicates a strong preference for card-based payments and highlights the importance of maintaining efficient card processing systems.
+
+## Recommendations
+Based on the analysis, the following actions are recommended for Trendora:
+-	Prioritize marketing campaigns and loyalty programs for customers aged 50–70, as they generate the highest revenue.
+-	Increase inventory and promotional focus on Dresses and Blouses, which are the top-performing products.
+-	Leverage Fall season demand with targeted promotions and new product launches.
+-	Implement strategies to boost engagement among younger customers (10–19) to expand the customer base.
+-	Optimize and promote debit and credit card payment options, as they are the most preferred methods.
+-	Improve customer experience initiatives to raise the average review rating above 4.0.
+
+
+
 
 
